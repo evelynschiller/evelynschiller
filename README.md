@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Evelyn
+- 👀 I’m a graphic designer.
+- 🌱 I’m currently learning to be Full Stack.
+- 📫 How to reach me eveschiller@gmail.com
